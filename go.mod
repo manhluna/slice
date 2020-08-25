@@ -1,3 +1,3 @@
-module github.com/psampaz/slice
+module github.com/manhluna/slice
 
-go 1.13
+go 1.14
